@@ -1,28 +1,23 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/43c72d56-c6e4-4971-8cab-7544bb84a933" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/user-attachments/assets/43c72d56-c6e4-4971-8cab-7544bb84a933" 
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Creating A Virtual Machine In Azure</h1>
+This tutorial will go over how to create a Azure Virtual Machines in Microsoft Azure.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+
 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>VM Creation Guide</h2>
 
 - Step 1
 - Step 2
